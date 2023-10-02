@@ -9,8 +9,8 @@
 - 视觉部分：Raspberry Pi 3 Model B
 
 <center class="half">
-    <img src="img/1.jpg" width="400">
-    <img src="img/2.jpg" width="400">
+    <img src="img/1.jpg" width="300">
+    <img src="img/2.jpg" width="300">
 </center>
 
 ## 视觉方案
