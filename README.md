@@ -40,3 +40,4 @@
    - 两个激光点重合会变成黄色，实际测试影响不大
    - 激光点可能会因为电工胶、距离或光照等因素无法识别，实际可以自行微调对应阈值参数 `vision.find_red_pt`
 
+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
